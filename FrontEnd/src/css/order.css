@@ -1,0 +1,11 @@
+.div-order{
+    width: 65%;
+    height:60%;
+    display: flex;
+    margin-top: 30px;
+padding: 30px;
+    
+    border: 4px solid #110b0b;
+    
+    background-color: rgb(127, 214, 230);
+} 
