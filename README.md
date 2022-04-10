@@ -17,6 +17,10 @@ Back-end is basically REST API which serves content to the React front-end.
 
 3 .Role-based authentication and authorization(User & Admin can access resources as per role ).
 
-4 .JSON WEB TOKEN (JWT) Spring Security is used for securing web application .
+4 .**JSON WEB TOKEN (JWT) Spring Security** is used for securing web application .
 
-5 .Admin responsible for managing Product and category .
+5 .Admin is  responsible for managing Product and category.
+
+
+
+
